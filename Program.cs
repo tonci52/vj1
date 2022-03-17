@@ -7,6 +7,8 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("ddb!");
+            Console.WriteLine("Nov");
+
         }
     }
 }
